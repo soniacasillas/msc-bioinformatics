@@ -1,0 +1,9 @@
+scikit-allel
+allel
+random
+time
+numpy
+h5py
+matplotlib
+seaborn
+pandas
